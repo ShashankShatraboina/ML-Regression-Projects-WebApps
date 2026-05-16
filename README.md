@@ -36,21 +36,6 @@ The web app provides an interactive interface where users can choose from six re
 
 ---
 
-## ⚙️ Installation
-
-Run the project locally by following these steps:
-
-```bash
-# Clone repository
-git clone <repository_url>
-cd <project_directory>
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
----
-
 ## ▶️ Usage
 
 Launch the Streamlit application:
